@@ -62,6 +62,23 @@
 #### ✅ Interactive KPI cards for profit, sales amount, AOV, and quantity metrics
 
 
+https://github.com/user-attachments/assets/41c2e474-ea59-4e1c-b98b-a33f1b577ced
+
+## Conclusion :
+
+#### 1️⃣ Seasonal Trends: Profit varies by month, with certain periods showing higher sales volumes.
+#### 2️⃣ Best-Selling Products: Some subcategories (e.g., Mobiles & Accessories) contribute significantly to profit.
+#### 3️⃣ Payment Preferences: Specific payment modes are preferred by customers, influencing checkout behavior.
+#### 4️⃣ High-Value Customers: Certain customers generate higher revenue, indicating loyal buyers.
+#### 5️⃣ Regional Performance: Filtering by state helps identify top-performing locations.
+
+
+### Project By :
+#### Shivsharan Malage
+ 
+
+
+
 
 
 
