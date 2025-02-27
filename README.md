@@ -73,8 +73,11 @@ https://github.com/user-attachments/assets/41c2e474-ea59-4e1c-b98b-a33f1b577ced
 #### 5️⃣ Regional Performance: Filtering by state helps identify top-performing locations.
 
 
-### Project By :
-#### Shivsharan Malage
+Project By - Shivsharan Malage
+
+[Github](https://github.com/Shivmalge)
+
+[Linkedin](https://www.linkedin.com/in/shivsharan-malage-99802a230/)
  
 
 
